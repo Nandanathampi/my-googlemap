@@ -3,8 +3,9 @@
 
 
 Install nodemon and create-react-app globally using below command:
-
-react-node-boilerplate$ install (npm i -D nodemon)`
+Install client folder $ cd client 
+client $ npm i react-google-maps react-google-autocomplete react-geocode
+react-node-boilerplate$ install npm i -D nodemon
 react-node-boilerplate$ npm run dev
 
 
