@@ -4,6 +4,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+INSTALLATION AND WORKING
+
+STEP 1:Clone then change directory(cd googledirectn)
+
+STEP 2:npm install
+
+STEP 3:npm i react-google-maps react-google-autocomplete react-geocode
+
+StEP 4:npm start (running with local host://3000)
+
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
