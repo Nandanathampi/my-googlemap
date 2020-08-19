@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 INSTALLATION AND WORKING
 
-STEP 1:Clone then change directory(cd googledirectn)
+STEP 1:Clone then change directory.
 
 STEP 2:npm install
 
